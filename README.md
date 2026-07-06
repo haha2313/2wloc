@@ -42,6 +42,7 @@ https://cdn.jsdelivr.net/gh/haha2313/2wloc@refs/heads/main/modules/wloc.module
 - **wloc 设置地理位置**：https://www.icloud.com/shortcuts/a82717d8fdad4e6280866fcf911173f7
 - 
 - **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/f42632d406504f24a2cd163af4fe012f
+- 
 
 **用法**
 
