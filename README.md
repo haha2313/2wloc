@@ -183,6 +183,7 @@ https://cdn.jsdelivr.net/gh/haha2313/2wloc@refs/heads/main/modules/wloc.module
 公共选点页面有请求上限，建议部署自己的实例：
 
 - **Workers**: `https://wloc-spoofer.wloc.workers.dev/`
+-     自部署可替换: `https://wloc.mmpic.dpdns.org/`
 - **Pages**: `https://wloc-pages.pages.dev/`
 
 **一键部署（Workers）：**
